@@ -1,5 +1,3 @@
 #Hey you read me that is cool
 
-#this is even cooler
-
-#branch 'new'
+#Now I changed stuff
